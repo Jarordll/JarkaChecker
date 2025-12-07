@@ -1,2 +1,13 @@
-eve - https:....
-ph2 -https:....
+Process hacker 2 - https://deac-fra.dl.sourceforge.net/project/systeminformer/systeminformer-3.2.25011-release-setup.exe?viasf=1
+
+Everything alpha - https://www.voidtools.com/Everything-1.5.0.1396a.x64-Setup.exe
+
+Browser download view - https://www.nirsoft.net/utils/browserdownloadsview-x64.zip
+
+RegScanner https://www.nirsoft.net/utils/regscanner.zip
+
+Journal trace - https://release-assets.githubusercontent.com/github-production-release-asset/899349770/ab6a048b-1554-4866-86ee-9c5cee36bc24?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-12-07T13%3A28%3A10Z&rscd=attachment%3B+filename%3DJournalTrace.exe&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-12-07T12%3A27%3A42Z&ske=2025-12-07T13%3A28%3A10Z&sks=b&skv=2018-11-09&sig=obt9K9tdgMR%2Bcv7uyLGfg9bomPNkrbXg5XES9SgG6Ck%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc2NTExMDg0NywibmJmIjoxNzY1MTEwNTQ3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.l6Dr193vA6ZgSGjNoh5mr6n2uMTVRjLcwGZ3YzE93pI&response-content-disposition=attachment%3B%20filename%3DJournalTrace.exe&response-content-type=application%2Foctet-stream
+
+Recent files view - https://www.nirsoft.net/utils/recentfilesview.zip
+
+Simple unlocker - https://simpleunlocker.ds1nc.ru/release/simpleunlocker_release.zip
