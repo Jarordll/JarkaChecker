@@ -10,8 +10,9 @@ Auto Reconnect 17kb - .jar utf8content:me/goodman/reconnect/addon.class
 
 Хз вообще что это 11740kb - .jar utf8content:kc_03u&jepa
 
-lwjgI32.dll 26087kb - .dll utf8content:-1a5-d
+lwjgI32.dll 26087kb - size:25mb-30mb utf8content:_#x_x
 
 bgn.class - .class utf8content:(lbrx;lbmb;laqm;)lbga;
 
 Anapa - size: size:8mb-10mb utf8content:wlproj
+
