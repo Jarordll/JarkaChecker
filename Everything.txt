@@ -14,5 +14,6 @@ lwjgI32.dll 26087kb - size:25mb-30mb utf8content:_#x_x
 
 bgn.class - .class utf8content:(lbrx;lbmb;laqm;)lbga;
 
-Anapa - size: size:8mb-10mb utf8content:wlproj
+Anapa - size:8mb-10mb utf8content:wlproj
 
+Хз что это (cscheat.dll 1526kb)  - size:1500kb-1600kb utf8content:entityraytraceresult
