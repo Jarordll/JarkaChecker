@@ -1,19 +1,27 @@
-OptiFile 4959kb - size:5077783.jarutf8content:va!e[v=
+OptiFile 4959kb: size:5077783.jarutf8content:va!e[v=
 
-CreativeCore 401kb - .jar utf8content:team/creative/creativecore/render/
+CreativeCore 401kb: .jar utf8content:team/creative/creativecore/render/
 
-Prespective Mod 93kb - .jar utf8content:pm/c7/pmr/attribute/attributeloader.class
+Prespective Mod 93kb: .jar utf8content:pm/c7/pmr/attribute/attributeloader.class
 
-View Model 65kb - .jar utf8content:c3sss3
+View Model 65kb: .jar utf8content:c3sss3
 
-Auto Reconnect 17kb - .jar utf8content:me/goodman/reconnect/addon.class
+Auto Reconnect 17kb: .jar utf8content:me/goodman/reconnect/addon.class
 
-Хз вообще что это 11740kb - .jar utf8content:kc_03u&jepa
+Хз вообще что это 11740kb: .jar utf8content:kc_03u&jepa
 
-lwjgI32.dll 26087kb - size:25mb-30mb utf8content:_#x_x
+lwjgI32.dll 26087kb: size:25mb-30mb utf8content:_#x_x
 
-bgn.class - .class utf8content:(lbrx;lbmb;laqm;)lbga;
+bgn.class: .class utf8content:(lbrx;lbmb;laqm;)lbga;
 
-Anapa - size:8mb-10mb utf8content:wlproj
+Anapa: size:8mb-10mb utf8content:wlproj
 
-Хз что это (cscheat.dll 1526kb)  - size:1500kb-1600kb utf8content:entityraytraceresult
+Хз что это (cscheat.dll 1526kb): size:1500kb-1600kb utf8content:entityraytraceresult
+
+
+==========================Nixploit==========================
+.dll: .dll size:10kb-35013kb utf8content:"hmm8_vfp>@f"
+.exe: .exe size:11kb-35013kb utf8content:"yaxpebd@z?"
+.jar: .jar size:3kb-4kb utf8content:"s9==]"
+.txt: .txt size:3kb-100kb utf8content:"s.close()"
+============================================================
