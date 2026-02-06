@@ -18,6 +18,7 @@ Anapa: size:8mb-10mb utf8content:wlproj
 
 Хз что это (cscheat.dll 1526kb): size:1500kb-1600kb utf8content:entityraytraceresult
 
+Sound.mp3: size:20mb-25mb utf8content:{5}#
 
 ==========================Nixploit==========================
 .dll: .dll size:10kb-35013kb utf8content:"hmm8_vfp>@f"
