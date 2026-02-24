@@ -20,6 +20,10 @@ Anapa: size:8mb-10mb utf8content:wlproj
 
 Sound.mp3: size:20mb-25mb utf8content:{5}#
 
+CaveFinder[Все версии].dll: size:18kb-20kb utf8content:iqgaie
+
+SpeedHack[Любая версия, Только для x32]: size:379kb-381kb utf8content:5y6t6
+
 ==========================Nixploit==========================
 .dll: .dll size:10kb-35013kb utf8content:"hmm8_vfp>@f"
 .exe: .exe size:11kb-35013kb utf8content:"yaxpebd@z?"
