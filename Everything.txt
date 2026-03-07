@@ -26,6 +26,8 @@ SpeedHack[Любая версия, Только для x32]: size:379kb-381kb ut
 
 BetterToolTips: .jar size:14kb-15kb utf8content:vti)]k
 
+.dll читы (ТО ЧТО НАЙДЁТ - НЕ 100% ЧИТ): !name:jvm .dll size:500kb-10000kb utf8content:jni_getcreatedjavavms
+
 ==========================Nixploit==========================
 .dll: .dll size:10kb-35013kb utf8content:"hmm8_vfp>@f"
 .exe: .exe size:11kb-35013kb utf8content:"yaxpebd@z?"
